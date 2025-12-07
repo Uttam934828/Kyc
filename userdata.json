@@ -16,5 +16,11 @@
         "key": "My",
         "expirydate": "15-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "96b148348185b427",
+        "key": "Lucky",
+        "expirydate": "17-12-2025",
+        "Allowoffline": false
     }
 ]
