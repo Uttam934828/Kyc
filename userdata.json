@@ -28,5 +28,11 @@
         "key": "Raju",
         "expirydate": "31-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fee3fcdb0f6795e2",
+        "key": "Asif",
+        "expirydate": "19-12-2025",
+        "Allowoffline": false
     }
 ]
