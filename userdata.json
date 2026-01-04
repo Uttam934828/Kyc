@@ -46,5 +46,11 @@
         "key": "Kiran",
         "expirydate": "29-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "892ecb0bec739a91",
+        "key": "Sameeksha",
+        "expirydate": "19-01-2026",
+        "Allowoffline": false
     }
 ]
