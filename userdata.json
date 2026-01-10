@@ -58,5 +58,11 @@
         "key": "3333",
         "expirydate": "06-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2aa3efefe4e70c74",
+        "key": "Gajendra",
+        "expirydate": "11-01-2026",
+        "Allowoffline": false
     }
 ]
