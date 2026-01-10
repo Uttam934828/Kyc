@@ -64,5 +64,11 @@
         "key": "Gajendra",
         "expirydate": "11-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "db4a9401224be3c7",
+        "key": "Makhan",
+        "expirydate": "25-01-2026",
+        "Allowoffline": false
     }
 ]
