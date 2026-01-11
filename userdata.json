@@ -70,5 +70,11 @@
         "key": "Makhan",
         "expirydate": "25-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6ec646c152745632",
+        "key": "6666",
+        "expirydate": "08-02-2026",
+        "Allowoffline": false
     }
 ]
