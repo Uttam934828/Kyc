@@ -82,5 +82,11 @@
         "key": "Bhola",
         "expirydate": "23-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "51eedcc56380a1cd",
+        "key": "Balvant",
+        "expirydate": "26-01-2026",
+        "Allowoffline": false
     }
 ]
