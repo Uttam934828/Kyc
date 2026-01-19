@@ -88,5 +88,11 @@
         "key": "Balvant",
         "expirydate": "26-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "892ecb0bec739a91",
+        "key": "SSB",
+        "expirydate": "03-02-2026",
+        "Allowoffline": false
     }
 ]
